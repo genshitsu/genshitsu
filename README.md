@@ -1,6 +1,6 @@
-<div align="center">  
-<img width="324" height="160" alt="iropyy" src="https://github.com/user-attachments/assets/5aaed44b-57c8-47fc-8548-281a2b8f5b3e" />
+<div align="left">  
+<img width="122" height="122" alt="DMEME" src="https://github.com/user-attachments/assets/c551bfc6-c904-40d8-a265-e0985e584539" />
 
-<p align="center">
+<p align="left">
 
 [rentry](https://rentry.co/chamaru)   [matching](https://rentry.co/genshitsu) [ata](https://koito.atabook.org/)  
