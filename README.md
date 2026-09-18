@@ -1,5 +1,6 @@
 <div align="left">  
-<img width="122" height="122" alt="DMEME" src="https://github.com/user-attachments/assets/c551bfc6-c904-40d8-a265-e0985e584539" />
+<img width="384" height="288" alt="20260915150818_1_1_30" src="https://github.com/user-attachments/assets/81e074a0-7933-481d-b7d4-6692334e08aa" />
+
 
 <p align="left">
 
