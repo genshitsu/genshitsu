@@ -1,9 +1,6 @@
 
-
-
-
 <div align="left">  
-<img width="400" height="300" alt="Posnetek zaslona 2026-10-06 200143" src="https://github.com/user-attachments/assets/3bdcd716-c18a-4109-89fa-de696f7534a5" />
+<img width="280" height="190" alt="twitter-gif-2040637560863527220_6ac9145d936b4" src="https://github.com/user-attachments/assets/8c063778-194d-41e8-8277-1c925e510505" />
 
 
 <p align="left">
