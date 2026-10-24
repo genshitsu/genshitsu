@@ -9,4 +9,3 @@
   [matching](https://rentry.co/genshitsu)  [ata](https://nishikiyama.atabook.org/)  
 
 
- [NISHIKIYAMA HATEMAIL](https://nishikiyamaakira.neocities.org/)
