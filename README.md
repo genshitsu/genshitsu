@@ -5,7 +5,7 @@
 
 <p align="left">
 
-[rentry](https://rentry.co/chamaru)
+[rentry]([https://rentry.co/kazuhira])
   [matching](https://rentry.co/genshitsu)  [ata](https://nishikiyama.atabook.org/)  
 
 
